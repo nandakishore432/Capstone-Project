@@ -1,1 +1,10 @@
+There are two shape files in this repository:
 
+* The India Boundary Shape File depicts the Republic of India's border in accordance with survey of India documents. 
+
+Including the recently developed Jammu and Ladakh, Dadar and Nagar Haveli, and Daman and Diu, 
+the State Boundary shape file depicts the borders of 28 Indian states and 9 Union Territories.
+
+The state of Jammu and Kashmir was divided into the Union Territory of Jammu and Kashmir and the Union Territory of Ladakh on October 31, 2019.
+Union Territory of Dadra and Nagar Haveli and Union Territory of Daman and Diu were combined on January 26, 2020, 
+from the former territories of Daman and Diu and Dadra and Nagar Haveli. Every modification is made in the current
